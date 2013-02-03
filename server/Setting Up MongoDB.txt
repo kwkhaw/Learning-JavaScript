@@ -1,0 +1,14 @@
+Setting Up MongoDB
+==================
+
+Windows 7:
+==========
+
+1. MongoDB
+
+
+1. MongoDB
+==========
+- Download MongoDB Windows version from http://www.mongodb.org/downloads.
+- Install MongoDB according to the procedure found here. http://docs.mongodb.org/manual/tutorial/install-mongodb-on-windows/
+
