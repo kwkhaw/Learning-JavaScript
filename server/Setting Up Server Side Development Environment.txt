@@ -1,0 +1,29 @@
+Setting Up JavaScript Server Side Development Environment
+=========================================================
+
+Windows 7:
+==========
+
+1. Node.js
+2. Eclipse
+3. Debugger
+
+
+1. Node.js
+==========
+- Download and install the latest node.js installation package from nodejs.org
+
+2. Eclipse
+==========
+- Download "Eclipse Classic" from http://www.eclipse.org/downloads/
+- Extract to any directory on your PC.
+
+2.1  Nodeclipse
+- Install nodeclipse from the Update Site: http://www.nodeclipse.org/updates
+- Check out this website (http://www.nodeclipse.org/) to find out more.
+
+3. Debugger
+===========
+- Install Google Chrome Developer Tools	from the Update Site: http://chromedevtools.googlecode.com/svn/update/dev/
+- Follow the instruction on this website (https://github.com/joyent/node/wiki/Using-Eclipse-as-Node-Applications-Debugger) to verify that debugger is working.
+
